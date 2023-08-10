@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Mr.Ameesha"
+      "value": "Lucky"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -70,7 +70,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94767453646"
+       "value": "94741410815"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here, Get from - https://replit.com/@AmiyaProgrammer/Dragon-MD-V4-QR?v=1"
@@ -100,7 +100,7 @@
   },
   "CAPTION": {
     "description": "Put Your Caption.",
-     "value": "_*🪄 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐎𝐮𝐫 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🪄*_ \nhttps://youtube.com/@Dragon-MD-OFC",
+     "value": "_*🪄 Follow 🪄*_ https://www.facebook.com/LashmikaHeshan00",
      "required": false 
   },
   "heroku": {
